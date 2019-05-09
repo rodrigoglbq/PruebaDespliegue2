@@ -17,6 +17,7 @@ public class PruebasDespliegueNuevo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Esto es una modificación en github");
+        System.out.println("Esto es una modificación para una nueva rama");
     }
     
 }
